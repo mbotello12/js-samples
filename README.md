@@ -13,4 +13,4 @@ Next I used a background picker for a different section to highlight the differe
 Finally some CodeWar challenges using arrays
 
 
-Thank you for you time and this opportunity!
+Thank you for your time and this opportunity!
